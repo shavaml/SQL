@@ -1,2 +1,2 @@
 # SQL
-Compilation of Sql 
+Compilation of Practice Sql 
